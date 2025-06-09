@@ -14,7 +14,7 @@
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=habibulfauzan.habibulfauzan&" alt="Visitor Count" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=BintangFauzan.BintangFauzan&" alt="Visitor Count" />
 </div>
 
 ---
