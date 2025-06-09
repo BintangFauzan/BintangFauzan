@@ -76,7 +76,7 @@ Di waktu luang, saya senang mengerjakan **proyek-proyek mini** untuk mengasah ke
 ### 🔥 Statistik GitHub Saya
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=habibulfauzan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=BintangFauzan&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak" />
 </div>
 
 <div align="center">
