@@ -3,10 +3,10 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/habibulfauzan" target="_blank">
+  <a href="https://www.linkedin.com/in/bintang-fauzan-62a760203" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Profile" />
   </a>
-  <a href="https://instagram.com/habibulfauzan" target="_blank">
+  <a href="https://www.instagram.com/bintang_fauzan14?igsh=NGpxb3JieW50ODFt" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram Profile" />
   </a>
 </div>
@@ -25,10 +25,7 @@
 
 ### 👩‍💻 Tentang Saya
 
-Saya Bintang Fauzan Dyan, seorang **mahasiswa** bersemangat dari Pekanbaru, Indonesia.
-
-Di waktu luang, saya senang mengerjakan **proyek-proyek mini** untuk mengasah kemampuan saya.
-
+Seorang lulusan dengan gelar Sarjana dalam Ilmu Komputer yang antusias dan siap memulai karir di bidang teknologi informasi. Memiliki pemahaman dasar tentang pengembangan, pemrograman, dan pengembangan perangkat lunak, serta analisis sistem. Mampu bekerja dalam tim dan memiliki kemampuan belajar yang cepat. Berkomitmen untuk mengembangkan keterampilan dan berkontribusi pada proyek-proyek yang menantang.
 ---
 
 ### 🛠 Bahasa dan Alat yang Saya Gunakan
