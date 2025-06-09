@@ -23,9 +23,10 @@
 
 ---
 
-### 👩‍💻 Tentang Saya
+#### 👩‍💻 Tentang Saya
 
 Seorang lulusan dengan gelar Sarjana dalam Ilmu Komputer yang antusias dan siap memulai karir di bidang teknologi informasi. Memiliki pemahaman dasar tentang pengembangan, pemrograman, dan pengembangan perangkat lunak, serta analisis sistem. Mampu bekerja dalam tim dan memiliki kemampuan belajar yang cepat. Berkomitmen untuk mengembangkan keterampilan dan berkontribusi pada proyek-proyek yang menantang.
+
 ---
 
 ### 🛠 Bahasa dan Alat yang Saya Gunakan
